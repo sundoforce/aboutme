@@ -7,6 +7,7 @@ code = {
 }
 
 computist = "A computist is a person who plays the computer"
+# 컴퓨터를 연주 하는 사람 
 ```
 ### 링크
 * [블로그](https://sdk.xyz)
