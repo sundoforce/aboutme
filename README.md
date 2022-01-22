@@ -10,14 +10,15 @@ computist = "A computist is a person who plays the computer"
 # 컴퓨터를 연주 하는 사람 
 ```
 ### 링크
-* [블로그](https://sdk.xyz)
-* [뮤지아](https://muzia.net)
-* [예전블로그](https://blog.sundo.kim)
+* [블로그](https://sdk.xyz) (2021.11 ~ 현재)
+* [뮤지아](https://muzia.net) (2004.12 ~ 현재)
+* [예전블로그](https://blog.sundo.kim) (2017.07 ~ 현재)
 * [Github](https://github.com/sundoforce) 
 
 ### Certificate
-* [Google Cloud Fundamentals: Core Infrastructure](https://partner.cloudskillsboost.google/public_profiles/4935080b-b9fa-4ab6-a980-965cdcc09798/badges/1669875)
-* SQLD (2020.10)
+* [Google Cloud Fundamentals: Core Infrastructure](https://partner.cloudskillsboost.google/public_profiles/4935080b-b9fa-4ab6-a980-965cdcc09798/badges/1669875) (2022.01)
+* [바닐라JS 2주 완성반](https://nomadcoders.co/certs/d5954cd4-1b5a-443f-a0cd-3daa3a0784cb) (2021.12)
+* SQLD (2021.10)
 * 네트워크관리사(2020.07)
 * 정보처리기사(2016.11)
 * 무대예술전문인 (2013.09)
