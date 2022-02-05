@@ -25,7 +25,7 @@ computist = "A computist is a person who plays the computer"
 
 ### ETC
 * CBS 전국청소년 음악콩쿠르 작곡 3등
-* 방송통신대학교: 컴퓨터과학과 평점 A0 졸업
-* 침례신학대학교: 신학과
-* 배재대학교: 음악학과 작곡전공
+* 방송통신대학교: 컴퓨터과학과 (평점 A0 졸업)
+* 침례신학대학교: (M.DIV.-Master of Divinity)
+* 배재대학교: 음악학과 작곡전공 & 복지신학 복수학위
 * 충북예술고등학교: 작곡과 1등 
