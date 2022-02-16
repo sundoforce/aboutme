@@ -7,16 +7,19 @@ code = {
 }
 
 computist = "A computist is a person who plays the computer"
-# 컴퓨터를 연주 하는 사람 
+
 ```
-### 링크
-* [블로그-sdk.xyz](https://sdk.xyz) (since 2021.11)
-* [뮤지아](https://muzia.net) (since 2004.12)
-* [wordpress 블로그](https://blog.sundo.kim) (since 2017.07)
-* [클라우드 지도 - cloud.sdk.xyz](https://cloud.sdk.xyz) (since 2022)
-* [자바스크립트 아카데미 javascript.sdk.xyz](https://javascript.sdk.xyz) (since 2021)
-* [muse academy](https://muse.ac) (since 2021)
-* [Github](https://github.com/sundoforce) 
+### SDK`s Family (*.sdk.xyz)
+* [cloud.sdk.xyz](https://cloud.sdk.xyz) (클라우드 wiki | since 2022.01)
+* [javascript.sdk.xyz](https://javascript.sdk.xyz) (JS아카데미| since 2021.11)
+* [muse.sdk.xyz](https://muse.sdk.xyz) (뮤즈아카테미 | since 2021.02)
+* [flask.sdk.xyz](https://flask.sdk.xyz) (ptyhon clone 코딩 | since 2021.02)
+
+### Community 운영
+* [muzia.net](https://muzia.net) (뮤지아 | since 2004.12)
+* [thundercloud.day](https://thundercloud.day) (썬더클라우드데이| since 2022.02)
+* [blog.sundo.kim](https://blog.sundo.kim) (워드프레스 | since 2017.07)
+
 
 ### Certificate
 * [Google Cloud skill badges](https://partner.cloudskillsboost.google/public_profiles/4935080b-b9fa-4ab6-a980-965cdcc09798) (2022)
