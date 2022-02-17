@@ -10,7 +10,7 @@ computist = "A computist is a person who plays the computer"
 
 ```
 ### SDK`s Family (*.sdk.xyz)
-* [sdk.xyz] (https://sdk.xyz) (현재블로그 | sins 2021.11)
+* [sdk.xyz](https://sdk.xyz) (현재블로그 | sins 2021.11)
 * [cloud.sdk.xyz](https://cloud.sdk.xyz) (클라우드 wiki | since 2022.01)
 * [javascript.sdk.xyz](https://javascript.sdk.xyz) (JS아카데미| since 2021.11)
 * [muse.sdk.xyz](https://muse.sdk.xyz) (뮤즈아카테미 | since 2021.02)
