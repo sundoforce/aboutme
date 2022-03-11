@@ -38,6 +38,6 @@ computist = "A computist is a person who plays the computer"
 
 ### ETC
 * 방송통신대학교: 컴퓨터과학과 (평점 A0 졸업)
-* 침례신학대학원: M.DIV (Master of Divinity)
+* 신학대학원: M.DIV (Master of Divinity)
 * 대학교: 음악학과 작곡전공 & 복지신학 복수학위
-* 충북예술고등학교: 작곡과 1등 
+* 예술고등학교: 작곡과 1등 
