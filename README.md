@@ -19,7 +19,7 @@ computist = "A computist is a person who plays the computer"
 
 ### Community 운영
 * [muzia.net](https://muzia.net) (뮤지아 | since 2004.12)
-<!--* [thundercloud.day](https://thundercloud.day) (썬더클라우드데이| since 2022.02) -->
+* [sundocloud.org](https://sundocloud.org) (썬더클라우드데이| since 2022.02) 
 
 ### 블로그 
 * [sdk.xyz](https://sdk.xyz) (현재 블로그 | since 2021.11)
@@ -36,8 +36,8 @@ computist = "A computist is a person who plays the computer"
 ### Awards and Honors
 * CBS 전국청소년 음악콩쿠르 작곡 3등
 
-### ETC
-* 방송통신대학교: 컴퓨터과학과 (평점 A0 졸업)
-* 대학원: M.DIV (Master of Divinity)
-* 대학교: 음악학과 작곡전공 & 복지신학 복수학위
-* 고등학교: 예고 작곡과 1등 
+### Education
+* 대학원: Master of Divinity
+* 대학교: 클래식 음악 작곡과 졸업 / 컴퓨터과학과 졸업 (평점 A⁰ 졸업)
+* 대학원: Master of Divinity
+* 고등학교: 예술고등학교 작곡과 1등 
