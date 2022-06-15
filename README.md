@@ -29,6 +29,7 @@ computist = "A computist is a person who plays the computer"
 * [https://github.com/sundoforce](https://github.com/sundoforce) 
 
 ### Certificate
+* Google Cloud Certified - Professional Cloud Architect (2022.06)
 * [Google Cloud skill badges](https://partner.cloudskillsboost.google/public_profiles/4935080b-b9fa-4ab6-a980-965cdcc09798) (2022)
 * [바닐라JS 2주 완성반](https://nomadcoders.co/certs/d5954cd4-1b5a-443f-a0cd-3daa3a0784cb) (2021.12) 
 * SQLD (2021.10)
