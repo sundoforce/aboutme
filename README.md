@@ -1,3 +1,5 @@
+
+
 ```
 sdk = ["Software development kit", "Sun-do,Kim"]
 
@@ -24,6 +26,7 @@ computist = "A computist is a person who plays the computer"
 ### 블로그 
 * [sdk.xyz](https://sdk.xyz) (현재 블로그 | since 2021.11)
 * [blog.sundo.kim](https://blog.sundo.kim) (워드프레스 | since 2017.07)
+* [https://github.com/sundoforce](https://github.com/sundoforce) 
 
 ### Certificate
 * [Google Cloud skill badges](https://partner.cloudskillsboost.google/public_profiles/4935080b-b9fa-4ab6-a980-965cdcc09798) (2022)
@@ -31,7 +34,7 @@ computist = "A computist is a person who plays the computer"
 * SQLD (2021.10)
 * 네트워크관리사(2020.07)
 * 정보처리기사(2016.11)
-* 무대예술전문인 (2013.09)
+* 무대예술전문인 -무대음향3급 (2013.09)
 
 ### Awards and Honors
 * CBS 전국청소년 음악콩쿠르 작곡 3등
