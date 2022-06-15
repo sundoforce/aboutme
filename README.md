@@ -34,7 +34,7 @@ computist = "A computist is a person who plays the computer"
 * SQLD (2021.10)
 * 네트워크관리사(2020.07)
 * 정보처리기사(2016.11)
-* 무대예술전문인 -무대음향3급 (2013.09)
+* 무대예술전문인 - 무대음향3급 (2013.09)
 
 ### Awards and Honors
 * CBS 전국청소년 음악콩쿠르 작곡 3등
