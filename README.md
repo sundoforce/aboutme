@@ -21,11 +21,11 @@ computist = "A computist is a person who plays the computer"
 
 ### Community 운영
 * [muzia.net](https://muzia.net) (뮤지아 | since 2004.12) - 음악커뮤니티 
-* [goorm.it](https://goorm.it) (구르밋(구름.잇)| since 2022.02)  - Cloud 공부 커뮤니티 
+* [goorm.it](https://goorm.it) (구르밋 | since 2022.02)  - Cloud 공부 커뮤니티 
 
 ### 블로그 
 * [sdk.xyz](https://sdk.xyz) (현재 블로그 | since 2021.11)
-* [blog.sundo.kim](https://blog.sundo.kim) (워드프레스 | since 2017.07)
+* [blog.sundo.kim](https://blog.sundo.kim) (일상 블로그 | since 2017.07)
 
 ### Github
 * [https://github.com/sundoforce](https://github.com/sundoforce) 
